@@ -3,7 +3,7 @@
 ```BASH
 Assignment name  : sort_list
 Expected files   : sort_list.c
-Allowed functions:
+Allowed functions: none
 --------------------------------------------------------------------------------
 
 Write the following functions:

@@ -3,7 +3,7 @@
 ```BASH
 Assignment name  : ft_list_foreach
 Expected files   : ft_list_foreach.c, ft_list.h
-Allowed functions:
+Allowed functions: none
 --------------------------------------------------------------------------------
 
 Write a function that takes a list and a function pointer, and applies this
