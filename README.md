@@ -47,4 +47,4 @@ The goal is to maintain a clear and independent structure for each challenge, ma
 
 ## Disclaimer
 
-The exercises published here are intended for educational and portfolio purposes only.
+The exercises published here are intended for educational purposes only.
