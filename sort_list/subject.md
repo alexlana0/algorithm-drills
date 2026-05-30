@@ -1,3 +1,6 @@
+## Subject
+
+```BASH
 Assignment name  : sort_list
 Expected files   : sort_list.c
 Allowed functions:
@@ -16,8 +19,7 @@ Duplications must remain.
 Inputs will always be consistent.
 
 You must use the type t_list described in the file list.h
-that is provided to you. You must include that file
-(#include "list.h"), but you must not turn it in. We will use our own
+that is provided to you. You must include that file, but you must not turn it in. We will use our own
 to compile your assignment.
 
 Functions passed as cmp will always return a value different from
@@ -30,3 +32,4 @@ int ascending(int a, int b)
 {
 	return (a <= b);
 }
+```
